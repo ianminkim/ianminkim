@@ -1,2 +1,2 @@
 # ianminkim
-<a href="ianminkim.github.io/ianminkim/Ian Kim Resume.pdf" target="_blank">CV.</a>
+<a href="<a href="https://ianminkim.github.io/ianminkim/Ian Kim Resume.pdf" target="_blank">CV.</a>
