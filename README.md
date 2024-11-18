@@ -1,6 +1,6 @@
 # 🦊 Hi, I'm Ian, I...
 
-**`💻 Am a "Creative Technologist (Developer/Musician/Student)`** <br />
+**`💻 Am a "Creative Technologist" (Developer/Musician/Student)`** <br />
 **`🎓 Studied Economics at Princeton University`** <br />
 **`📚 Am pursuing MS in Business Analytics at Santa Clara University`** <br />
 **`💿 Am always thinking about how music and art lives among the developing AI landscape!`** <br />
