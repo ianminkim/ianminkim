@@ -1,9 +1,11 @@
 # 🦊 Hi, I'm Ian, I...
 
-**`💻 Am a "Creative Technologist" (Developer/Musician/Student)`** <br />
-**`🎓 Studied Economics at Princeton University`** <br />
-**`📚 Am pursuing MS in Business Analytics at Santa Clara University`** <br />
-**`💿 Am always thinking about how music and art lives among the developing AI landscape!`** <br />
+**`💻 Am a "Creative Technologist" (Researcher/Developer/Musician)`** <br />
+**`🦉 Am a PhD at Rice University`** <br />
+**`🐯 Studied Economics at Princeton University`** <br />
+**`🐴 Received a Master of Science in Business Analytics at Santa Clara University`** <br />
+
+**`💿 Am always thinking about how music and art lives among the developing AI landscape`** <br />
 
 ---
 
@@ -22,9 +24,5 @@
 
 
 <br />
-
-
-### Connect with me on LinkedIn:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ianmkim/)
 
  <a href="https://ianminkim.github.io/ianminkim/Ian Kim Resume.pdf" target="_blank">`full cv`</a>
