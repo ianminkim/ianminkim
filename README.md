@@ -5,7 +5,7 @@
 **`🐯 Studied Economics at Princeton University`** <br />
 **`🐴 Received a Master of Science in Business Analytics at Santa Clara University`** <br />
 
-**`💿 Am always thinking about how music and art lives among the developing AI landscape`** <br />
+**`💿 Am always thinking about how machine learning can answer interesting questions in more interesting ways`** <br />
 
 ---
 
